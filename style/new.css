@@ -1,0 +1,172 @@
+.box{
+	max-width: 7.5rem;
+	height: 100%;
+	margin: 0 auto;
+}
+.box2{
+	width: 6.9rem;
+	height: 100%;
+	margin: 0 auto;
+	/* border: 1px solid green; */
+}
+.top{
+	height: 1.9rem;
+	width: 100%;
+	background-image:linear-gradient(to right,#84e26a,#0ce3a8) ;
+}
+.topm{
+	height: 0.95rem;
+	width: 100%;
+	display: flex;
+}
+.top-p{
+	font-size: 0.36rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.95rem;
+	width: 6.18rem;
+}
+.top-l{
+	width: 0.36rem;
+	height: 0.36rem;
+	padding-top: 0.35rem;
+}
+.top-r{
+	width: 0.36rem;
+	height: 0.36rem;
+	padding-top: 0.35rem;
+}
+.topm-d{
+	display: flex;
+}
+.topm-d a{
+	display: block;
+	width: 33.3%;
+	color: white;
+	text-align: center;
+	font-size: 0.32rem;
+	line-height:0.8rem;
+}
+.topm-d a:hover{
+	border-bottom: 0.02rem solid white;
+}
+/*---------------------------------*/
+.list{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.list1{
+	width: 3.3rem;
+	height: 3.7rem;
+	box-shadow: 0 0 0.36rem #ebebeb;
+	margin-left: 0.3rem;
+	margin-top: 0.3rem;
+	border-radius: 0.1rem;
+	border:1px solid beige;
+}
+.limg{
+	width: 3.3rem;
+	height: 2.47rem;
+}
+.list-p1{
+	padding-left: 0.22rem;
+	font-size: 0.28rem;
+	font-weight: 500;
+	color: #666;
+	margin-top: 0.1rem;
+}
+.cr{
+	margin-top:0.1rem ;
+}
+.cr1{
+	margin-left: 0.55rem;
+	margin-top: 0.05rem;
+	width: 0.06rem;
+	height: 0.06rem;
+	border-radius: 50%;
+	background-color: #666;
+}
+.list-f{
+	display: flex;
+}
+.list-p2{
+	margin-top: 0.08rem;
+	font-size: 0.22rem;
+	color: #999;
+	padding-left: 0.22rem;
+}
+.list-d{
+	display: flex;
+}
+.d-1{
+	width: 1rem;
+	text-align: right;
+	margin-left: 1rem;
+	font-size: 0.22rem;
+	color: #999;
+}
+.d-2{
+	width: 1rem;
+	text-align: right;
+	font-size: 0.22rem;
+	color: #999;
+}
+.ey{
+	padding-top: 0.03rem;
+	width: 0.28rem;
+	height: 0.16rem;
+	margin-left: 0.05rem;
+	margin-right: 0.05rem;
+}
+.et{
+	padding-top: 0.03rem;
+	width: 0.22rem;
+	height: 0.2rem;
+	margin-left: 0.05rem;
+	margin-right: 0.05rem;
+}
+/*------------------------------*/
+
+footer{
+	display: flex;
+	position: -ms-device-fixed;
+	height: 0.96rem;
+	width: 100%;	
+	background-color: #fff;
+	position: fixed;
+	bottom: 0;
+}
+
+footer img{
+	width: 0.44rem;
+	height: 0.44rem;
+	padding-top: 0.22rem;
+}
+footer .foodimg4{
+	width: 0.36rem;
+	margin-left: 1rem;
+}
+footer .foodimg3{
+	margin-left: 2.9rem;
+}
+footer .foodimg2{
+	margin-left: 1rem;
+}
+.foodimg1{
+	margin-left: 0.5rem;
+}
+.pos{
+	position: absolute;
+	width: 1.13rem;
+	height: 1.1rem;
+	border-radius: 50%;
+	top:-0.18rem;
+	left: 3.3rem;
+}
+.pos img{
+	width: 1.13rem;
+	height: 1.1rem;
+	border-radius: 50%;
+	padding-top: 0;
+}

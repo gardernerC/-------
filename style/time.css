@@ -1,0 +1,214 @@
+.box{
+	max-width: 7.5rem;
+	height: 16rem;
+	background-image:linear-gradient(to right,#84e26a,#0ce3a8) ;
+	margin: 0 auto;
+}
+.box2{
+	width: 6.9rem;
+	height: 100%;
+	margin: 0 auto;
+	/* border: 1px solid green; */
+}
+/* .top{
+	height: 1.9rem;
+	width: 100%;
+	background-image:linear-gradient(to right,#84e26a,#0ce3a8) ;
+} */
+.topm{
+	height: 0.95rem;
+	width: 100%;
+	display: flex;
+}
+.top-p{
+	font-size: 0.36rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.95rem;
+	width: 6.18rem;
+}
+.top-l{
+	width: 0.36rem;
+	height: 0.36rem;
+	padding-top: 0.35rem;
+}
+.top-r{
+	width: 0.36rem;
+	height: 0.36rem;
+	padding-top: 0.35rem;
+}
+.topm-d{
+	display: flex;
+	height: 0.95rem;
+}
+.topm-d a{
+	display: block;
+	width: 1rem;
+	height: 1rem;
+	color: white;
+	text-align: center;
+	font-size: 0.32rem;
+	line-height:1rem;
+	margin-left: 1.6rem;
+}
+.topm-d a:hover{
+	border-bottom: 0.02rem solid white;
+}
+/*-----------------------------------------*/
+.ta{
+	width: 100%;
+	height: 1.8rem;
+	border-radius: 0.1rem;
+	display: flex;
+	background-color: white;
+	margin-top: 0.2rem;
+}
+
+.ta-a{
+	text-align: center;
+	width: 25%;
+	
+}
+.ta-a img{
+	padding-top: 0.45rem;
+	margin-bottom: 0.16rem;
+	width: 0.44rem;
+	height:0.48rem ;
+}
+.ta-p{
+	font-size: 0.28rem;
+	color: #999;
+}
+/**/
+.say{
+	height: 5rem;
+	width: 100%;
+	background-color: white;
+	border-radius: 0.1rem;
+	margin-top: 0.3rem;
+	padding-top: 0.3rem;
+}
+.say1{
+	display: flex;
+	height: 0.67rem;
+	width: 100%;
+}
+.say1-img{
+	width: 0.67rem;
+	height: 0.67rem;
+	border-radius: 50%;
+	padding-left: 0.3rem;
+	padding-right: 0.15rem;
+}
+.say1 a{
+	display: block;
+}
+.say1-p1{
+	font-size: 0.26rem;
+	color: #333;
+}
+.say1-p2{
+	font-size: 0.2rem;
+	color: #999;
+}
+.say1-p{
+	display: block;
+	width: 0.78rem;
+	height: 0.36rem;
+	border-radius: 0.05rem;
+	background-image:linear-gradient(to right,#84e26a,#0ce3a8) ;
+	line-height: 0.36rem;
+	text-align: center;
+	font-size: 0.2rem;
+	color: white;
+	margin-top: 0.12rem;
+	margin-left: 3.5rem;
+}
+.sp{
+	font-size: 0.26rem;
+	color: #666;
+	padding-left: 0.3rem;
+	padding-right: 0.3rem;
+	margin-top: 0.2rem;
+}
+.say-img{
+	width: 6.3rem;
+	height: 2.34rem;
+	padding-left: 0.3rem;
+	margin-top: 0.2rem;
+}
+.sd{
+	display: flex;
+	width: 100%;
+	height: 0.3rem;
+}
+.sd1{
+	margin-top: 0.3rem;
+	display: flex;
+	width: 25%;
+	border-right: 1px solid #999;
+	height: 0.28rem;
+	padding-left: 0.3rem;
+}
+.sd1 img{
+	width: 0.28rem;
+	height: 0.24rem;
+	padding-left: 0.2rem;
+}
+.sdp{
+	font-size: 0.2rem;
+	color: #999;
+	text-align: center;
+	line-height: 0.28rem;
+	margin-left: 0.2rem;
+}
+.sd .sd2{
+	border: none;
+}
+.sd .sd2 img{
+	width: 0.28rem;
+	height: 0.28rem;
+}
+/*----------------------------------------*/
+footer{
+	display: flex;
+	position: -ms-device-fixed;
+	height: 0.93rem;
+	width: 100%;	
+	background-color: #fff;
+	position: fixed;
+	bottom: 0;
+}
+
+footer img{
+	width: 0.44rem;
+	height: 0.44rem;
+	padding-top: 0.22rem;
+}
+footer .foodimg4{
+	width: 0.36rem;
+	margin-left: 1rem;
+}
+footer .foodimg3{
+	margin-left: 2.9rem;
+}
+footer .foodimg2{
+	margin-left: 1rem;
+}
+.foodimg1{
+	margin-left: 0.5rem;
+}
+.pos{
+	position: absolute;
+	width: 1.13rem;
+	height: 1.1rem;
+	border-radius: 50%;
+	top:-0.18rem;
+	left: 3.3rem;
+}
+.pos img{
+	width: 1.13rem;
+	height: 1.1rem;
+	border-radius: 50%;
+	padding-top: 0;
+}
